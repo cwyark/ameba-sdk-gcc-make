@@ -1,0 +1,18 @@
+
+
+========================================================================
+Ameba SDK release - none NDA version
+========================================================================
+
+This version of SDK is released without NDA (Non-disclosure agreement).
+For further informaion, please kindly check it on the website.
+
+http://www.amebaiot.com/ (WW)
+http://ameba.realsil.com.cn/ (CN)
+
+---------------------------------------------------------------------
+Release 3.4x
+---------------------------------------------------------------------
+- sdk-ameba1-v3.4b2_without_NDA
+  This pacakge is released based on SDK-ameba1-v3.4b_ECN2_20160302.zip
+

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\adt-bundle-windows-x86-20130729\sdk\extras\android\m2repository\com\android\support\support-annotations\20.0.0\support-annotations-20.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa">
+        <dex dex="D:\sean.chang\Documents\Android Studio\Android Studio\UartThrough_jmdns\app\build\intermediates\pre-dexed\debug\support-annotations-20.0.0-b86cf93d6052407f95088d02d56db9319c0786c1.jar" />
+    </item>
+    <item
+        jar="D:\branch\v3.3a\tools\uart_adapter\app\android\UartThrough\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\jars\libs\internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d">
+        <dex dex="D:\branch\v3.3a\tools\uart_adapter\app\android\UartThrough\app\build\intermediates\pre-dexed\debug\internal_impl-20.0.0-8f9a963e1646972ea69d72ec0faaa4f111097fea.jar" />
+    </item>
+    <item
+        jar="D:\sean.chang\Documents\Android Studio\Android Studio\UartThrough_jmdns\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0">
+        <dex dex="D:\sean.chang\Documents\Android Studio\Android Studio\UartThrough_jmdns\app\build\intermediates\pre-dexed\debug\classes-6af254afa02d9cc8440edeb4d509b1f07ebe1f71.jar" />
+    </item>
+    <item
+        jar="D:\sean.chang\Documents\Android Studio\Android Studio\UartThrough_jmdns\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\jars\libs\internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d">
+        <dex dex="D:\sean.chang\Documents\Android Studio\Android Studio\UartThrough_jmdns\app\build\intermediates\pre-dexed\debug\internal_impl-20.0.0-6300cf01cd81ff66a2a4963fd56b56079a6d404c.jar" />
+    </item>
+    <item
+        jar="D:\branch\v3.3a\tools\uart_adapter\app\android\UartThrough\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0">
+        <dex dex="D:\branch\v3.3a\tools\uart_adapter\app\android\UartThrough\app\build\intermediates\pre-dexed\debug\classes-d467241c5a06e0b66af3b29dd01a667405d8768f.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,34 @@
+Applications Memory Usage (kB):
+Uptime: 25514874 Realtime: 25514874
+
+** MEMINFO in pid 11344 [com.realtek.uartthrough] **
+                         Shared  Private     Heap     Heap     Heap
+                   Pss    Dirty    Dirty     Size    Alloc     Free
+                ------   ------   ------   ------   ------   ------
+       Native        0        0        0    10860     6758      349
+       Dalvik    16815     6756    16084    39180    31494     7686
+        Stack      264        0      264                           
+       Cursor        0        0        0                           
+       Ashmem        0        0        0                           
+    Other dev    25376      876     3792                           
+     .so mmap      858      792      664                           
+    .jar mmap        0        0        0                           
+    .apk mmap        0        0        0                           
+    .ttf mmap        0        0        0                           
+    .dex mmap      269      236       12                           
+   Other mmap       10        0        4                           
+      Unknown     3085      356     3052                           
+        TOTAL    46677     9016    23872    50040    38252     8035
+ 
+ Objects
+               Views:      141         ViewRootImpl:        4
+         AppContexts:        7           Activities:        5
+              Assets:        3        AssetManagers:        3
+       Local Binders:       13        Proxy Binders:       24
+    Death Recipients:        1
+     OpenSSL Sockets:        0
+ 
+ SQL
+         MEMORY_USED:        0
+  PAGECACHE_OVERFLOW:        0          MALLOC_SIZE:        0
+ 

@@ -1,0 +1,85 @@
+Applications Graphics Acceleration Info:
+Uptime: 25518911 Realtime: 25518911
+
+** Graphics info for pid 11344 [com.realtek.uartthrough] **
+
+Recent DisplayList operations
+  DrawDisplayList
+    DrawDisplayList
+      DrawDisplayList
+      DrawDisplayList
+        DrawBitmapRect
+        DrawDisplayList
+          Save
+          ClipRect
+          DrawDisplayList
+          DrawDisplayList
+            DrawDisplayList
+            DrawDisplayList
+              DrawRect
+              Save
+              ClipRect
+              DrawText
+              RestoreToCount
+          RestoreToCount
+    DrawPatch
+DrawRect
+DrawBitmapRect
+DrawRect
+DrawText
+SetupShader
+DrawRect
+ResetShader
+DrawDisplayList
+  DrawDisplayList
+    DrawDisplayList
+      DrawDisplayList
+      DrawDisplayList
+        DrawBitmapRect
+        DrawDisplayList
+          Save
+          ClipRect
+          DrawDisplayList
+          DrawDisplayList
+            DrawDisplayList
+            DrawDisplayList
+              DrawRect
+              Save
+              ClipRect
+              DrawText
+              RestoreToCount
+          RestoreToCount
+    DrawPatch
+DrawRect
+DrawBitmapRect
+DrawRect
+DrawText
+
+Caches:
+Current memory usage / total memory usage (bytes):
+  TextureCache         12836176 / 50331648
+  LayerCache                  0 / 33554432
+  RenderBufferCache           0 /  2097152
+  GradientCache               0 /  1048576
+  PathCache                   0 /  8388608
+  TextDropShadowCache         0 /  4194304
+  FontRenderer 0         524288 /   524288
+Other:
+  FboCache                    0 /       16
+  PatchCache                 10 /      512
+Total memory usage:
+  13360464 bytes, 12.74 MB
+
+Profile data in ms:
+
+	com.realtek.uartthrough/com.realtek.uartthrough.MainActivity/android.view.ViewRootImpl@43ae4d18
+View hierarchy:
+
+  com.realtek.uartthrough/com.realtek.uartthrough.MainActivity/android.view.ViewRootImpl@43ae4d18
+  18 views, 11.16 kB of display lists, 17 frames rendered
+
+
+Total ViewRootImpl: 1
+Total Views:        18
+Total DisplayList:  11.16 kB
+

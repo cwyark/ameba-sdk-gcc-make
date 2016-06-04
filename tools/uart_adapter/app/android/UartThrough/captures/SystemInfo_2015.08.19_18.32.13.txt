@@ -1,0 +1,40 @@
+TASK com.realtek.uartthrough id=40
+  ACTIVITY com.realtek.uartthrough/.MainActivity 437b5cf0 pid=11344
+    Local Activity 4397be40 State:
+      mResumed=true mStopped=false mFinished=false
+      mLoadersStarted=true
+      mChangingConfigurations=false
+      mCurrentConfig={1 0 1.0 ?mcc?mnc zh_TW ldltr sw360dp w360dp h615dp 480dpi nrml long port finger -keyb/v/h -nav/h s.6}
+    FragmentManager misc state:
+      mActivity=com.realtek.uartthrough.MainActivity@4397be40
+      mContainer=android.app.Activity$1@4397c030
+      mCurState=5 mStateSaved=false mDestroyed=false
+    View Hierarchy:
+      com.android.internal.policy.impl.PhoneWindow$DecorView{43a5deb8 V.E..... R....... 0,0-1080,1920}
+        android.widget.LinearLayout{43e086c8 V.E..... ........ 0,0-1080,1920}
+          android.view.ViewStub{43e09340 G.E..... ......I. 0,0-0,0 #102045c}
+          android.widget.FrameLayout{43e91330 V.ED.... ........ 0,0-1080,1920 #1020002 android:id/content}
+            android.widget.LinearLayout{43eb09b0 V.E..... ........ 0,0-1080,1920 #7f080000 app:id/mainlayout}
+              android.widget.LinearLayout{43eb0ca0 V.E..... ........ 0,0-1080,213 #7f080001 app:id/layer1_linear0}
+                android.widget.ImageView{43eb1220 V.ED.... ........ 0,0-240,213 #7f08000c app:id/APPimageView}
+                android.widget.TextView{43eb1650 V.ED.... ........ 240,74-736,139 #7f080003 app:id/APPTitle}
+                android.widget.ImageButton{43caebb8 VFED..C. ........ 739,3-905,210 #7f08000d app:id/btn_scanDevices}
+                android.widget.ImageButton{43db8a60 VFED..C. ........ 911,3-1077,210 #7f08000e app:id/btn_setting}
+              android.widget.LinearLayout{43db93c8 V.E..... ........ 0,213-1080,1920 #7f080004 app:id/layer1_linear2}
+                android.widget.GridView{43dccea0 VFED.VC. .F...... 0,0-1080,1707 #7f08000f app:id/gridview_list}
+                  android.widget.RelativeLayout{43ddb7c8 V.E..... ........ 105,105-540,456}
+                    android.widget.ImageView{439a3f58 V.ED.... ........ 66,0-369,303 #7f080010 app:id/item_image}
+                    android.widget.TextView{439a43b0 V.ED.... ........ 28,303-406,351 #7f080011 app:id/item_text}
+                  android.widget.RelativeLayout{43d3ba00 V.E..... ........ 540,105-975,456}
+                    android.widget.ImageView{43e195c8 V.ED.... ........ 66,0-369,303 #7f080010 app:id/item_image}
+                    android.widget.TextView{43e199b0 V.ED.... ........ 28,303-406,351 #7f080011 app:id/item_text}
+
+  ACTIVITY com.realtek.uartthrough/.MainActivity 4379de98 pid=(not running)
+
+  ACTIVITY com.realtek.uartthrough/.MainActivity 4378a0c8 pid=(not running)
+
+  ACTIVITY com.realtek.uartthrough/.MainActivity 437753b8 pid=(not running)
+
+  ACTIVITY com.realtek.uartthrough/.MainActivity 436922e8 pid=(not running)
+
+  ACTIVITY com.realtek.uartthrough/.MainActivity 435a71a8 pid=(not running)
